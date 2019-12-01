@@ -1,0 +1,66 @@
+#form, #myprof
+{
+   height: 60%;
+    margin-left: 230px;
+    margin-top: 10px;
+    width: 70%;
+    padding: 3%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+}
+#myprof{
+    text-align: center;
+    font-size: 20px;
+}
+#profpic{
+    height: 250px;
+    width:250px;
+    float: left;
+    border-radius: 50%;
+    margin-left: 40px;
+}
+
+#form #left
+{
+    display: inline-block;
+    font-size: 17px;
+     
+
+}
+#form #left p{
+    padding-top: 6%;
+}
+
+#form #right{
+    display: inline-block;
+}
+#write{
+      background-color: beige;
+    padding: 4%;
+        font-weight: bolder;
+
+    
+}
+#form #bottom{
+    float: right;
+}
+textarea
+{
+    overflow-y:scroll;
+    border-radius: 5px;
+}
+#h1{
+  text-align: center;
+    padding-top: 5%;
+    font-family: cursive;
+}
+#myprof p{
+       font: italic 1.2em "Fira Sans", serif;
+    font-weight: bold;
+    
+}
+#myprof h1, #myprof p{
+       color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
